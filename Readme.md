@@ -9,4 +9,4 @@ Development of conversational AI systems: The TigQA dataset can be utilized to t
 2. Machine Learning models for topic identification: The TigQA dataset can serve as a valuable resource for training Machine Learning models to identify and understand complex topics discussed in Tigrinya Text corpora. By applying natural language processing and machine learning techniques, these models can automatically recognize and categorize different subject matters. This can facilitate more efficient searching for students, enabling them to ask questions in their native Tigrinya language and receive targeted and accurate information.
 
 3. Automatic summarization algorithms: The question-answer pairs in the TigQA dataset can be utilized to develop automatic summarization algorithms. These algorithms can extract key information and generate concise summaries from the dataset. By condensing the content and presenting the most relevant information, students can quickly grasp the main points and gain a comprehensive understanding of the topics covered in the TigQA dataset.
-**Dataset**
+
