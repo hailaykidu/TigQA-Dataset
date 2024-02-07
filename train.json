@@ -396,7 +396,7 @@
                   "answer_id": 1051718,
                   "document_id": 1715181,
                   "question_id": 1157720,
-                  "text": "ኣብፅርግያዘይምፅዋት፣የማንፀጋምርእይኻምስጋር፣ውርውራይመንገዲምጥቃምን",
+                  "text": "ኣብ ፅርግያ ዘይምፅዋት፣የማን ፀጋም ርእይኻ ምስጋር፣ውርውራይመንገዲምጥቃምን",
                   "answer_start": 6217,
                   "answer_end": 6259,
                   "answer_category": "SHORT"
@@ -405,14 +405,14 @@
               "is_impossible": false
             },
             {
-              "question": "እንታይ ስለዝገበርኩሙለይ ኣዝየ የመስግን እዮም ዝበሉ ኮማንደር ጀማል?\n",
+              "question": "እንታይ ስለ ዝገበርኩሙለይ ኣዝየ የመስግን እዮም ዝበሉ ኮማንደር ጀማል?\n",
               "id": 1157721,
               "answers": [
                 {
                   "answer_id": 1051717,
                   "document_id": 1715181,
                   "question_id": 1157721,
-                  "text": "ስለዘዳመፅኩምኒ",
+                  "text": "ስለ ዘዳመፅኩምኒ",
                   "answer_start": 6282,
                   "answer_end": 6291,
                   "answer_category": "SHORT"
