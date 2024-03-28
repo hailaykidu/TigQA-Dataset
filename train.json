@@ -28,7 +28,7 @@
                   "answer_id": 1051684,
                   "document_id": 1715181,
                   "question_id": 1157394,
-                  "text": "ነባሪኣየርኣብሓደከባቢዝውቱርዝኾነኩነታ",
+                  "text": "ነባሪ ኣየር ኣብ ሓደ ከባቢ ዝውቱር ዝኾነ ኩነታ",
                   "answer_start": 1200,
                   "answer_end": 1223,
                   "answer_category": "SHORT"
@@ -44,7 +44,7 @@
                   "answer_id": 1051695,
                   "document_id": 1715181,
                   "question_id": 1157396,
-                  "text": "ማእኸላይሙቐትኣለዎ",
+                  "text": "ማእኸላይ ሙቐት ኣለዎ",
                   "answer_start": 1642,
                   "answer_end": 1653,
                   "answer_category": "SHORT"
@@ -60,7 +60,7 @@
                   "answer_id": 1051699,
                   "document_id": 1715181,
                   "question_id": 1157402,
-                  "text": "ኣግራብከይቑረፁዝተወሰነቦታምኽላል",
+                  "text": "ኣግራብ ከይቑረፁ ዝተወሰነ ቦታ ምኽላል",
                   "answer_start": 3060,
                   "answer_end": 3080,
                   "answer_category": "SHORT"
@@ -69,7 +69,7 @@
               "is_impossible": false
             },
             {
-              "question": "ልሙዕሓመድብማይንብንፋስንዘይጉሕጓሕ ኣግራብ እንታይ እንተተገይሮም እዩ?\n",
+              "question": "ልሙዕ ሓመድ ብማይን ብንፋስን ዘይጉሕጓሕ ኣግራብ እንታይ እንተተገይሮም እዩ?\n",
               "id": 1157403,
               "answers": [
                 {
@@ -108,7 +108,7 @@
                   "answer_id": 1051696,
                   "document_id": 1715181,
                   "question_id": 1157397,
-                  "text": "ብኽለትከባቢኣየር",
+                  "text": "ብኽለት ከባቢ ኣየር",
                   "answer_start": 2023,
                   "answer_end": 2033,
                   "answer_category": "SHORT"
@@ -124,7 +124,7 @@
                   "answer_id": 1051697,
                   "document_id": 1715181,
                   "question_id": 1157399,
-                  "text": "ኣግራብካብብርሰትብምክልኻልንተኽሊታትብምትካልን",
+                  "text": "ኣግራብ ካብ ብርሰት ብምክልኻል ንተኽሊታት ብምትካልን",
                   "answer_start": 1995,
                   "answer_end": 2023,
                   "answer_category": "SHORT"
@@ -220,7 +220,7 @@
                   "answer_id": 1051701,
                   "document_id": 1715181,
                   "question_id": 1157401,
-                  "text": "ሃፍቲታትተፈጥሮ",
+                  "text": "ሃፍቲታት ተፈጥሮ",
                   "answer_start": 2808,
                   "answer_end": 2817,
                   "answer_category": "SHORT"
@@ -236,7 +236,7 @@
                   "answer_id": 1051729,
                   "document_id": 1715181,
                   "question_id": 1157405,
-                  "text": "ፍርያትንሰባትንካብቦታናብቦታዝጓዓዙሉ",
+                  "text": "ፍርያትን ሰባትን ካብ ቦታ ናብ ቦታ ዝጓዓዙሉ",
                   "answer_start": 3784,
                   "answer_end": 3806,
                   "answer_category": "SHORT"
@@ -252,7 +252,7 @@
                   "answer_id": 1051709,
                   "document_id": 1715181,
                   "question_id": 1157412,
-                  "text": "ኮማንደርጀማል",
+                  "text": "ኮማንደር ጀማል",
                   "answer_start": 5584,
                   "answer_end": 5592,
                   "answer_category": "SHORT"
@@ -268,7 +268,7 @@
                   "answer_id": 1051710,
                   "document_id": 1715181,
                   "question_id": 1157409,
-                  "text": "ብመኪና፣ብሞተርሳይክል፣ብብሽክለታንብባቡርንሰባትንኣቚሑንካብቦታናብቦታዘመላልስዘበናዊመራኸቢ",
+                  "text": "ብመኪና፣ብሞተርሳይክል፣ብብሽክለታን ብባቡርን ሰባትን ኣቚሑን ካብ ቦታ ናብ ቦታ ዘመላልስ ዘበናዊ መራኸቢ",
                   "answer_start": 4678,
                   "answer_end": 4733,
                   "answer_category": "SHORT"
@@ -284,7 +284,7 @@
                   "answer_id": 1051711,
                   "document_id": 1715181,
                   "question_id": 1157411,
-                  "text": "ብኣውሮፕላንንብሄሊኮፕተርን",
+                  "text": "ብኣውሮፕላንን ብሄሊኮፕተርን",
                   "answer_start": 5038,
                   "answer_end": 5054,
                   "answer_category": "SHORT"
@@ -316,7 +316,7 @@
                   "answer_id": 1051705,
                   "document_id": 1715181,
                   "question_id": 1157407,
-                  "text": "ፈረስ፣ኣድጊንበቕሊን",
+                  "text": "ፈረስ፣ኣድጊን በቕሊን",
                   "answer_start": 4206,
                   "answer_end": 4218,
                   "answer_category": "SHORT"
@@ -325,14 +325,14 @@
               "is_impossible": false
             },
             {
-              "question": "ብታንኳንብጃልባን ዝግበር ምጉዕዓዝ እንታይ ይበሃል?\n",
+              "question": "ብታንኳን ብጃልባን ዝግበር ምጉዕዓዝ እንታይ ይበሃል?\n",
               "id": 1157410,
               "answers": [
                 {
                   "answer_id": 1051712,
                   "document_id": 1715181,
                   "question_id": 1157410,
-                  "text": "መጓዓዝያማይ",
+                  "text": "መጓዓዝያ ማይ",
                   "answer_start": 4902,
                   "answer_end": 4909,
                   "answer_category": "SHORT"
@@ -348,7 +348,7 @@
                   "answer_id": 1051716,
                   "document_id": 1715181,
                   "question_id": 1157717,
-                  "text": "ዘወርቲንኣጋራትንዝፈጥሩዎጌጋእዩ",
+                  "text": "ዘወርቲን ኣጋራትን ዝፈጥሩዎ ጌጋእዩ",
                   "answer_start": 5951,
                   "answer_end": 5970,
                   "answer_category": "SHORT"
@@ -364,7 +364,7 @@
                   "answer_id": 1051715,
                   "document_id": 1715181,
                   "question_id": 1157718,
-                  "text": "ሕጊታትትራፊክብምኽባር",
+                  "text": "ሕጊታት ትራፊክ ብምኽባር",
                   "answer_start": 6197,
                   "answer_end": 6210,
                   "answer_category": "SHORT"
@@ -428,7 +428,7 @@
                   "answer_id": 1051714,
                   "document_id": 1715181,
                   "question_id": 1157722,
-                  "text": "ሓደጋትራፊክ",
+                  "text": "ሓደጋ ትራፊክ",
                   "answer_start": 6148,
                   "answer_end": 6155,
                   "answer_category": "SHORT"
@@ -444,7 +444,7 @@
                   "answer_id": 1051722,
                   "document_id": 1715181,
                   "question_id": 1157723,
-                  "text": "ሓደጋወይሕማም",
+                  "text": "ሓደጋ ወይ ሕማም",
                   "answer_start": 8086,
                   "answer_end": 8094,
                   "answer_category": "SHORT"
@@ -508,7 +508,7 @@
                   "answer_id": 1051727,
                   "document_id": 1715181,
                   "question_id": 1157727,
-                  "text": "ፆታዊማዕርነት",
+                  "text": "ፆታዊ ማዕርነት",
                   "answer_start": 9088,
                   "answer_end": 9096,
                   "answer_category": "SHORT"
@@ -556,7 +556,7 @@
                   "answer_id": 1051725,
                   "document_id": 1715181,
                   "question_id": 1157730,
-                  "text": "ኣብመንጎደቂኣንስቲዮንደቂተባዕትዮንማዕረሓላፊነትንተሓታቲነት",
+                  "text": "ኣብ መንጎ ደቂ ኣንስቲዮን ደቂ ተባዕትዮን ማዕረ ሓላፊነትን ተሓታቲነት",
                   "answer_start": 9472,
                   "answer_end": 9508,
                   "answer_category": "SHORT"
@@ -572,7 +572,7 @@
                   "answer_id": 1051726,
                   "document_id": 1715181,
                   "question_id": 1157731,
-                  "text": "ደቂኣንስቲዮንደቂተባዕትዮን",
+                  "text": "ደቂ ኣንስቲዮን ደቂ ተባዕትዮን",
                   "answer_start": 9477,
                   "answer_end": 9493,
                   "answer_category": "SHORT"
@@ -588,7 +588,7 @@
                   "answer_id": 1051704,
                   "document_id": 1715181,
                   "question_id": 1157406,
-                  "text": "ኣድጊ፣ብበቕሊ፣ብፈረስ፣ብግመል፣ብሰብ፣ወዘተ.",
+                  "text": "ኣድጊ፣ ብበቕሊ ፣ ብፈረስ ፣ ብግመል፣ብሰብ፣ወዘተ.",
                   "answer_start": 3756,
                   "answer_end": 3783,
                   "answer_category": "SHORT"
