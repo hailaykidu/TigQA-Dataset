@@ -44,7 +44,7 @@
                   "answer_id": 1051709,
                   "document_id": 1715181,
                   "question_id": 1157412,
-                  "text": "ኮማንደርጀማል",
+                  "text": "ኮማንደር ጀማል",
                   "answer_start": 5584,
                   "answer_end": 5592,
                   "answer_category": "SHORT"
@@ -53,7 +53,7 @@
               "is_impossible": false
             },
             {
-              "question": "መጓዓዝያምድሪ እንታይ እዩ?\n",
+              "question": "መጓዓዝያ ምድሪ እንታይ እዩ?\n",
               "id": 1157409,
               "answers": [
                 {
@@ -124,7 +124,7 @@
                   "answer_id": 1051699,
                   "document_id": 1715181,
                   "question_id": 1157402,
-                  "text": "ኣግራብከይቑረፁዝተወሰነቦታምኽላል",
+                  "text": "ኣግራብ ከይቑረፁ ዝተወሰነ ቦታ ምኽላል",
                   "answer_start": 3060,
                   "answer_end": 3080,
                   "answer_category": "SHORT"
@@ -172,7 +172,7 @@
                   "answer_id": 1051697,
                   "document_id": 1715181,
                   "question_id": 1157399,
-                  "text": "ኣግራብካብብርሰትብምክልኻልንተኽሊታትብምትካልን",
+                  "text": "ኣግራብ ካብ ብርሰት ብምክልኻልን ተኽሊታት ብምትካልን",
                   "answer_start": 1995,
                   "answer_end": 2023,
                   "answer_category": "SHORT"
@@ -188,7 +188,7 @@
                   "answer_id": 1051702,
                   "document_id": 1715181,
                   "question_id": 1157400,
-                  "text": "ብኽለትከባቢኣየር",
+                  "text": "ብኽለት ከባቢ ኣየር",
                   "answer_start": 2601,
                   "answer_end": 2611,
                   "answer_category": "SHORT"
