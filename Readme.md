@@ -16,7 +16,7 @@ encourage the research community to address the challenges in the Tigrinya MRC.
 
 Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
 
-###Dataset
+Dataset
 
    {
   "data": 
@@ -156,6 +156,7 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
       ]
     }
   ],
+
  
   "data": [
     {
@@ -224,6 +225,7 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
       ]
     }
   ],
+  
    "data": [
     {
       "title": "Context4",
@@ -356,6 +358,7 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
       ]
     }
   ],
+  
   "data": [
     {
       "title": "Context6",
@@ -542,6 +545,7 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
       ]
     }
   ],
+  
   "data": [
     {
       "title": "Context 39",
@@ -598,6 +602,7 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
       ]
     }
   ],
+  
   "data": [
     {
       "title": "Context 40: Sample Title",
@@ -665,6 +670,7 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
       ]
     }
   ],
+  
   "data": [
     {
       "title": "Context 33: Sample Title",
@@ -732,6 +738,7 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
       ]
     }
   ],
+  
   "data": [
     {
       "title": "Context 10: Sample Title",
@@ -864,6 +871,7 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
       ]
     }
   ],
+  
   "data": [
     {
       "title": "Context 9: Sample Title",
@@ -1368,7 +1376,9 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
           }
         ]
       }
-    ],"title": "Context 51",
+    ],
+    
+    "title": "Context 51",
     "paragraphs": [
       {
         "context": "ሃገራዊ ፓርክ ቃፍታ-ሸራሮ ኣብ ዞባ ምዕራብ ይርከብ ። እዚ ፓርክ  5,000  ትርብዒት ኪሎ ሜትር ስፍሓት ይሽፍን ። ኣብዚ ፓርክ ብዙሓት ዓሌት እንስሳ ዘገዳምን እፅዋትን ኣለዉ ። ኣብ ፓርክ ቃፍታ-ሸራሮ 42 ዓሌታት መጥበውቲ ፣ 163 ዓሌታትኣዕዋፍ፣ 9 ዓሌታት ተስሓብቲን ከምኡ እውን ዓሳታትን ይርከቡ ።ብበዝሒ ካብ ዘለዉ እንስሳት ሓርማዝ ፣ ዓጋዘን ቆላ ፣ ሰስሓ ፣ፀላም ህበይ ፣ነብሪ ፣ ዝብኢ ፣ ማንቲለ ፣ቡዃርያ ወዘተ. ምጥቃስ ይከኣል ።",
@@ -1430,7 +1440,9 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
           }
         ]
       }
-    ],  "title": "Context 52",
+    ], 
+    
+    "title": "Context 52",
     "paragraphs": [
       {
         "context": "ሓርማዝ ነዚ ፓርክ ፍሉይ ድምቀት ይህቦ ፤ ጐሊሁ እውንክረአ ይገብሮ ። ኣብቲ ፓርክ ዝርከብ ዘርኢ ኣፍሪካ ብምዃኑ ኣፍሪካዊ ሓርማዝ ተባሂሉ ይፍለጥ ። ሓርማዝ ስነ ምሕደራዊ ሚዛን ሓደ ከባቢ ኣብ ምሕላው ዓብዪ ግደ ኣለዎ ። እዞም ኣብ ሃገራዊ ፓርክ ቃፍታ-ሸራሮ ዝርከቡ ሓራምዝ ኩሉ ግዘ ካብ ሰነ ክሳብ ጥቅምቲ ልዕሊ 200  ኮይኖም ናብ ደቡባዊ ክፋል እቲ ፓርክ ይውሕዙ እዚ ከባቢ ዝምረፅ ምስ ዝናብ ብዝተተሓሓዘ ምኽንያት ምንቅስቓስ ሰባት ትሑት ስለ ዝኸውን እዩ ። ",
@@ -1493,6 +1505,8 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
         ]
       }
     ],
+
+    
     "title": "Context 53",
     "paragraphs": [
       {
@@ -1554,6 +1568,7 @@ Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
         ]
       }
     ],
+    
     "title": "Context 54",
     "paragraphs": [
       {
