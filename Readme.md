@@ -11,7 +11,7 @@ word matching, requiring both single-sentence and multiple-sentence inference ab
 using state-of-the-art MRC methods, marking the first exploration of such models on TIGQA. Additionally, we esti-
 mate human performance on the dataset and juxtapose it with the results obtained from pre-trained models. The
 notable disparities between human performance and the best model performance underscore the potential for fu-
-ture enhancements to TIGQA through continued research. Our dataset is freely accessible via the provided link to
+ture enhancements to TIGQA through continued research. Our dataset is freely accessible to
 encourage the research community to address the challenges in the Tigrinya MRC.
 
 Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
