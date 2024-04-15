@@ -1,18 +1,7 @@
-### TigQA: Question Answering in Low Resource Scenarios: Expert Annotated Dataset for Tigrinya Language
+### TigQA: TIGQA: An Expert-Annotated Question-Answering Dataset in Tigrinya
 
 ### Abstract
-The absence of explicitly tailored, accessible annotated datasets for educational purposes presents a notable obsta-
-cle for NLP tasks in languages with limited resources. This study initially explores the feasibility of using machine
-translation (MT) to convert an existing dataset into a Tigrinya dataset in SQuAD format. As a result, we present
-TIGQA, an expert-annotated dataset containing 2,685 question-answer pairs covering 122 diverse topics such as
-climate, water, and traﬀic. These pairs are from 537 context paragraphs in publicly accessible Tigrinya and Biology
-books. Through comprehensive analyses, we demonstrate that the TIGQA dataset requires skills beyond simple
-word matching, requiring both single-sentence and multiple-sentence inference abilities. We conduct experiments
-using state-of-the-art MRC methods, marking the first exploration of such models on TIGQA. Additionally, we esti-
-mate human performance on the dataset and juxtapose it with the results obtained from pre-trained models. The
-notable disparities between human performance and the best model performance underscore the potential for fu-
-ture enhancements to TIGQA through continued research. Our dataset is freely accessible to
-encourage the research community to address the challenges in the Tigrinya MRC.
+The absence of explicitly tailored, accessible annotated datasets for educational purposes presents a notable obstacle for NLP tasks in languages with limited resources. This study initially explores the feasibility of using machine translation (MT) to convert an existing dataset into a Tigrinya dataset in SQuAD format. As a result, we present TIGQA, an expert-annotated dataset containing 2,685 question-answer pairs covering 122 diverse topics such as climate, water, and traﬀic. These pairs are from 537 context paragraphs in publicly accessible Tigrinya and Biology books. Through comprehensive analyses, we demonstrate that the TIGQA dataset requires skills beyond simple word matching, requiring both single-sentence and multiple-sentence inference abilities. We conduct experiments using state-of-the-art MRC methods, marking the first exploration of such models on TIGQA. Additionally, we estimate human performance on the dataset and juxtapose it with the results obtained from pre-trained models. The notable disparities between human performance and the best model performance underscore the potential for further enhancements to TIGQA through continued research. Our dataset is freely accessible via the provided link to encourage the research community to address the challenges in the Tigrinya MRC.
 
 Keywords: Tigrinya QA dataset, Low resource QA dataset, domain-specific QA
 
