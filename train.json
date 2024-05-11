@@ -5,7 +5,7 @@
         {
           "qas": [
             {
-              "question": "ኣብ ክልልና ብሰንኪ ሓደጋ ትራፊክ ዘጋጠመ ዕንወት ክሳብ ክንደየናይ እዩ? ኢሉ ዝሓተተ መን እዩ?\n",
+              "question": "ኣብ ክልልና ብሰንኪ ሓደጋ ትራፊክ ዘጋጠመ ዕንወት ክሳብ ክንደየናይ እዩ ኢሉ ዝሓተተ መን እዩ፧\n",
               "id": 1157413,
               "answers": [
                 {
@@ -21,14 +21,14 @@
               "is_impossible": false
             },
             {
-              "question": "ነባሪ ኣየር እንታይ እዩ?\n",
+              "question": "ነባሪ ኣየር እንታይ እዩ፧\n",
               "id": 1157394,
               "answers": [
                 {
                   "answer_id": 1051684,
                   "document_id": 1715181,
                   "question_id": 1157394,
-                  "text": "ነባሪ ኣየር ኣብ ሓደ ከባቢ ዝውቱር ዝኾነ ኩነታ",
+                  "text": "ነባሪ ኣየር ኣብ ሓደ ከባቢ ዝውቱር ዝኾነ ኩነታት ኣየር እዩ፧",
                   "answer_start": 1200,
                   "answer_end": 1223,
                   "answer_category": "SHORT"
@@ -37,7 +37,7 @@
               "is_impossible": false
             },
             {
-              "question": "ሓውሲ ደጉዓ ባህሪይ እንታይ ኣለዎ?\n",
+              "question": "ሓውሲ ደጉዓ  ነባሪ ኣየር  እንታይ ባህሪይ ኣለዎ፧\n",
               "id": 1157396,
               "answers": [
                 {
@@ -53,7 +53,7 @@
               "is_impossible": false
             },
             {
-              "question": "ሓደሜላ ምክልኻል ብርሰትሃፍቲኣግራብ እንታይ እዩ?\n",
+              "question": "ሓደ ሜላ ምክልኻል ብርሰት ሃፍቲ ኣግራብ እንታይ እዩ፧\n",
               "id": 1157402,
               "answers": [
                 {
@@ -69,7 +69,7 @@
               "is_impossible": false
             },
             {
-              "question": "ልሙዕ ሓመድ ብማይን ብንፋስን ዘይጉሕጓሕ ኣግራብ እንታይ እንተተገይሮም እዩ?\n",
+              "question": "ልሙዕ ሓመድ ብማይን ብንፋስን ዘይጉሕጓሕ ኣግራብ እንታይ እንተተገይሮም እዩ፧\n",
               "id": 1157403,
               "answers": [
                 {
@@ -85,7 +85,7 @@
               "is_impossible": false
             },
             {
-              "question": "ኣዝዩ ቆራር ኩነታት ኣየር ዘለዎ ኣየናይ ነባሪ ኣየር እዩ?\n",
+              "question": "ኣዝዩ ቆራር ኩነታት ኣየር ዘለዎ ኣየናይ ነባሪ ኣየር እዩ፧\n",
               "id": 1157395,
               "answers": [
                 {
@@ -101,7 +101,7 @@
               "is_impossible": false
             },
             {
-              "question": "ኣግራብ ካብ ብርሰት ምክልኻል እንታይ ይሕግዝ?\n",
+              "question": "ኣግራብ ካብ ብርሰት ምክልኻል እንታይ ይሕግዝ፧\n",
               "id": 1157397,
               "answers": [
                 {
@@ -117,7 +117,7 @@
               "is_impossible": false
             },
             {
-              "question": "ብኽለት ከባቢ ኣየር ብምንታይ ምቕናስ ይከኣል?\n",
+              "question": "ብኽለት ከባቢ ኣየር ብምንታይ ምቕናስ ይከኣል፧\n",
               "id": 1157399,
               "answers": [
                 {
@@ -133,14 +133,14 @@
               "is_impossible": false
             },
             {
-              "question": "ምጥቃም ኣማራፂ ሓይልታት እንታይ ይሕግዝ?\n",
+              "question": "ምጥቃም ኣማራፂ ሓይልታት እንታይ ይሕግዝ፧\n",
               "id": 1157400,
               "answers": [
                 {
                   "answer_id": 1051702,
                   "document_id": 1715181,
                   "question_id": 1157400,
-                  "text": "ብኽለትከባቢኣየር",
+                  "text": "ብኽለት ከባቢ ኣየር",
                   "answer_start": 2601,
                   "answer_end": 2611,
                   "answer_category": "SHORT"
@@ -149,14 +149,14 @@
               "is_impossible": false
             },
             {
-              "question": "ተኽልታት ምግቢ እንተዳልዉ ካብ ከባቢ ኣየር እንታይ ይወስዱ?\n",
+              "question": "ተኽልታት ምግቢ እንተዳልዉ ካብ ከባቢ ኣየር እንታይ ይወስዱ፧\n",
               "id": 1157398,
               "answers": [
                 {
                   "answer_id": 1051698,
                   "document_id": 1715181,
                   "question_id": 1157398,
-                  "text": "ካርቦንዳይኦክሳይድ",
+                  "text": "ካርቦን ዳይ ኦክሳይድ",
                   "answer_start": 2196,
                   "answer_end": 2207,
                   "answer_category": "SHORT"
@@ -165,14 +165,14 @@
               "is_impossible": false
             },
             {
-              "question": "ኣብ ገዛ ደቆም ናይ ምሕጋዝ ሓላፍነት ናይ መን እዩ?\n",
+              "question": "ኣብ ገዛ ደቆም ናይ ምሕጋዝ ሓላፍነት ናይ መን እዩ፧\n",
               "id": 1157393,
               "answers": [
                 {
                   "answer_id": 1051689,
                   "document_id": 1715181,
                   "question_id": 1157393,
-                  "text": "ብሓፈሻደቅኹም",
+                  "text": "ናይ ወለዲ",
                   "answer_start": 640,
                   "answer_end": 648,
                   "answer_category": "SHORT"
@@ -181,7 +181,7 @@
               "is_impossible": false
             },
             {
-              "question": "መሰረታዊ ሃፍቲ ተፈጥሮ አንታይእዩ?\n",
+              "question": "መሰረታዊ ሃፍቲ ተፈጥሮ አንታይ  እዩ፧\n",
               "id": 1157404,
               "answers": [
                 {
@@ -197,14 +197,14 @@
               "is_impossible": false
             },
             {
-              "question": "ህፃናት እንታይ ክእለቶም ንምብቃዕ ዝተዳለወ መፅሓፍ እዩ 4ይክፍሊ መፅሓፍተምሃራይ?\n",
+              "question": "ህፃናት እንታይ ክእለቶም ንምብቃዕ ዝተዳለወ መፅሓፍ እዩ ፬ይ ክፍሊ መፅሓፍ ተምሃራይ፧\n",
               "id": 1157392,
               "answers": [
                 {
                   "answer_id": 1051713,
                   "document_id": 1715181,
                   "question_id": 1157392,
-                  "text": "ምድማፅ፣ምዝራብ፣ምንባብንምፅሓፍንንምብቃዕ",
+                  "text": "ምድማፅ፣ምዝራብ፣ምንባብን ምፅሓፍን ንምብቃዕ",
                   "answer_start": 42,
                   "answer_end": 67,
                   "answer_category": "SHORT"
@@ -213,7 +213,7 @@
               "is_impossible": false
             },
             {
-              "question": "ሰባት ዕለታዊ መነባብርኦም ንኽመርሑ ዘኽእሉዎ ወሰንቲ ፀጋታት እንታይ እዮም?\n",
+              "question": "ሰባት ዕለታዊ መነባብርኦም ንኽመርሑ ዘኽእሉዎ ወሰንቲ ፀጋታት እንታይ እዮም፧\n",
               "id": 1157401,
               "answers": [
                 {
@@ -229,7 +229,7 @@
               "is_impossible": false
             },
             {
-              "question": "ባህላዊ መጓዓዝያ እንታይ ዓይነት ሜላመራኸቢ እዩ?\n",
+              "question": "ባህላዊ መጓዓዝያ እንታይ ዓይነት ሜላ መራኸቢ እዩ፧\n",
               "id": 1157405,
               "answers": [
                 {
@@ -245,7 +245,7 @@
               "is_impossible": false
             },
             {
-              "question": "ሓላፊ ምክልኻል ሓደጋ ትራፊክ መን ይበሃሉ?\n",
+              "question": "ሓላፊ ምክልኻል ሓደጋ ትራፊክ መን ይበሃሉ፧\n",
               "id": 1157412,
               "answers": [
                 {
@@ -261,7 +261,7 @@
               "is_impossible": false
             },
             {
-              "question": "መጓዓዝያምድሪ እንታይ እዩ?\n",
+              "question": "መጓዓዝያ  ምድሪ እንታይ እዩ፧\n",
               "id": 1157409,
               "answers": [
                 {
@@ -277,7 +277,7 @@
               "is_impossible": false
             },
             {
-              "question": "መጓዓዝያኣየር ብምንተይ ዝግበር ጉዕዞ እዩ?\n",
+              "question": "መጓዓዝያ ኣየር ብምንተይ ዝግበር ጉዕዞ እዩ፧\n",
               "id": 1157411,
               "answers": [
                 {
@@ -293,7 +293,7 @@
               "is_impossible": false
             },
             {
-              "question": "ዘበናዊ መጓዓዝያ ኣብ ክንደይ ዓበይቲ ክፍሊታት ይምቀል?\n",
+              "question": "ዘበናዊ መጓዓዝያ ኣብ ክንደይ ዓበይቲ ክፍሊታት ይምቀል፧\n",
               "id": 1157408,
               "answers": [
                 {
@@ -309,7 +309,7 @@
               "is_impossible": false
             },
             {
-              "question": "ኣብ ደጉዓታት ኢትዮጵያ ዝነብሩ ብቐንዲ ንመጓዓዝያ ዝጥቀሙለን እንስሳት ኣየኖት እየን?\n",
+              "question": "ኣብ ደጉዓታት ኢትዮጵያ ዝነብሩ ብቐንዲ ንመጓዓዝያ ዝጥቀሙለን እንስሳት ኣየኖት እየን፧\n",
               "id": 1157407,
               "answers": [
                 {
@@ -325,7 +325,7 @@
               "is_impossible": false
             },
             {
-              "question": "ብታንኳን ብጃልባን ዝግበር ምጉዕዓዝ እንታይ ይበሃል?\n",
+              "question": "ብታንኳን ብጃልባን ዝግበር ምጉዕዓዝ እንታይ ይበሃል፧\n",
               "id": 1157410,
               "answers": [
                 {
@@ -341,14 +341,14 @@
               "is_impossible": false
             },
             {
-              "question": "መንቀሊ ሓደጋ ትራፊክ እንታይ እዩ?\n",
+              "question": "መንቀሊ ሓደጋ ትራፊክ እንታይ እዩ፧\n",
               "id": 1157717,
               "answers": [
                 {
                   "answer_id": 1051716,
                   "document_id": 1715181,
                   "question_id": 1157717,
-                  "text": "ዘወርቲን ኣጋራትን ዝፈጥሩዎ ጌጋእዩ",
+                  "text": "ዘወርቲን ኣጋራትን ዝፈጥሩዎ ጌጋ እዩ",
                   "answer_start": 5951,
                   "answer_end": 5970,
                   "answer_category": "SHORT"
@@ -357,7 +357,7 @@
               "is_impossible": false
             },
             {
-              "question": "ሓደጋ ትራፊክ ከመይ ገይርና ንከላኸሎ?",
+              "question": "ሓደጋ ትራፊክ ከመይ ገይርና ንከላኸሎ፧",
               "id": 1157718,
               "answers": [
                 {
@@ -373,7 +373,7 @@
               "is_impossible": false
             },
             {
-              "question": "ሓደጋ ትራፊክ ከመይ ገይርና ንከላኸሎ? ኢሉ ዝሓተተ መን እዩ?\n",
+              "question": "ሓደጋ ትራፊክ ከመይ ገይርና ንከላኸሎ  ኢሉ ዝሓተተ መን እዩ፧\n",
               "id": 1157719,
               "answers": [
                 {
@@ -389,14 +389,14 @@
               "is_impossible": false
             },
             {
-              "question": "ብምንታይ ኢና ካብ ሓደጋ ክንዕቀብ ንኽእል?\n",
+              "question": "ብምንታይ ኢና ካብ ሓደጋ ክንዕቀብ ንኽእል፧\n",
               "id": 1157720,
               "answers": [
                 {
                   "answer_id": 1051718,
                   "document_id": 1715181,
                   "question_id": 1157720,
-                  "text": "ኣብ ፅርግያ ዘይምፅዋት፣የማን ፀጋም ርእይኻ ምስጋር፣ውርውራይመንገዲምጥቃምን",
+                  "text": "ኣብ ፅርግያ ዘይምፅዋት፣የማን ፀጋም ርእይኻ ምስጋር፣ውርውራይ መንገዲ ምጥቃምን",
                   "answer_start": 6217,
                   "answer_end": 6259,
                   "answer_category": "SHORT"
@@ -405,7 +405,7 @@
               "is_impossible": false
             },
             {
-              "question": "እንታይ ስለ ዝገበርኩሙለይ ኣዝየ የመስግን እዮም ዝበሉ ኮማንደር ጀማል?\n",
+              "question": "እንታይ ስለ ዝገበርኩሙለይ ኣዝየ የመስግን እዮም ዝበሉ ኮማንደር ጀማል፧\n",
               "id": 1157721,
               "answers": [
                 {
@@ -421,7 +421,7 @@
               "is_impossible": false
             },
             {
-              "question": "ኣብ ፅርግያ ብዘይምፅዋት ካብእንተይ ክንዕቀብ ንኽእል?\n",
+              "question": "ኣብ ፅርግያ ብዘይምፅዋት ካብእንተይ ክንዕቀብ ንኽእል፧\n",
               "id": 1157722,
               "answers": [
                 {
@@ -437,7 +437,7 @@
               "is_impossible": false
             },
             {
-              "question": "ጉድኣት ኣካል ብሰንኪ እንታይ ይመፅእ?\n",
+              "question": "ጉድኣት ኣካል ብሰንኪ እንታይ ይመፅእ፧\n",
               "id": 1157723,
               "answers": [
                 {
@@ -453,7 +453,7 @@
               "is_impossible": false
             },
             {
-              "question": "ኣብ ሃገርና ቝፅሪ ጉዱኣት ኣካል ትሑት ዲዩ ልዑል?\n",
+              "question": "ኣብ ሃገርና ቝፅሪ ጉዱኣት ኣካል ትሑት ዲዩ ልዑል፧\n",
               "id": 1157724,
               "answers": [
                 {
@@ -469,14 +469,14 @@
               "is_impossible": false
             },
             {
-              "question": "መዓስ ብዝተኻየደ ሃገራዊ ቆፀራ ህዝቢንኣባይቲን እዩ ቁፅሪ ጉዱኣት ኣካል ተፈሊጡ?\n",
+              "question": "መዓስ ብዝተኻየደ ሃገራዊ ቆፀራ ህዝቢን ኣባይቲን እዩ ቁፅሪ ጉዱኣት ኣካል ተፈሊጡ፧\n",
               "id": 1157725,
               "answers": [
                 {
                   "answer_id": 1051721,
                   "document_id": 1715181,
                   "question_id": 1157725,
-                  "text": "ብ1986",
+                  "text": "ብ1986 ዓ፨ም",
                   "answer_start": 8212,
                   "answer_end": 8217,
                   "answer_category": "SHORT"
@@ -485,7 +485,7 @@
               "is_impossible": false
             },
             {
-              "question": "ኣብ ሃገርና ቝፅሪ ጉዱኣት ክንደይ ከምዘለዉ እዩ ተገሊፁ?ክንደይ ዝኾኑ ጉዱኣት ኣካል ኣለዉ?\n",
+              "question": "ኣብ ሃገርና ቝፅሪ ጉዱኣት ክንደይ ከምዘለዉ እዩ ተገሊፁ፧ክንደይ ዝኾኑ ጉዱኣት ኣካል ኣለዉ፧\n",
               "id": 1157726,
               "answers": [
                 {
@@ -501,7 +501,7 @@
               "is_impossible": false
             },
             {
-              "question": "ብመንፅር ምንካይ ድኽነትን ምዕባይ ቁጠባዊ ዓቕሚ ሕብረተሰብን ቀንዲ መስርሕ ተገይሩ ዝውሰድ እንታይ እዩ?\n",
+              "question": "ብመንፅር ምንካይ ድኽነትን ምዕባይ ቁጠባዊ ዓቕሚ ሕብረተሰብን ቀንዲ መስርሕ ተገይሩ ዝውሰድ እንታይ እዩ፧\n",
               "id": 1157727,
               "answers": [
                 {
@@ -517,14 +517,14 @@
               "is_impossible": false
             },
             {
-              "question": "እዚ ከይዲ ስርዓተ ፆታ፣ፆታዊ ኣፈላላያት ብምቕናስ ምግላል እንታይን ምውጋድ ዝሰርሕ እዩ?\n",
+              "question": "እዚ ከይዲ ስርዓተ ፆታ፣ፆታዊ ኣፈላላያት ብምቕናስ ምግላል እንታይን ምውጋድ ዝሰርሕ እዩ፧\n",
               "id": 1157728,
               "answers": [
                 {
                   "answer_id": 1051723,
                   "document_id": 1715181,
                   "question_id": 1157728,
-                  "text": "ምግላልሓደፆታንምውጋድ",
+                  "text": "ምግላል ሓደ ፆታ ንምውጋድ",
                   "answer_start": 9367,
                   "answer_end": 9380,
                   "answer_category": "SHORT"
@@ -533,14 +533,14 @@
               "is_impossible": false
             },
             {
-              "question": "ስርዓተ ፆታ ፆታዊ እንታይ ብምቕናስ ይሰርሕ?\n",
+              "question": "ስርዓተ ፆታ ፆታዊ እንታይ ብምቕናስ ይሰርሕ፧\n",
               "id": 1157729,
               "answers": [
                 {
                   "answer_id": 1051724,
                   "document_id": 1715181,
                   "question_id": 1157729,
-                  "text": "ፆታዊኣፈላላያት",
+                  "text": "ፆታዊ ኣፈላላያት",
                   "answer_start": 9352,
                   "answer_end": 9361,
                   "answer_category": "SHORT"
@@ -549,7 +549,7 @@
               "is_impossible": false
             },
             {
-              "question": "ስርዓተ ፆታ ብዛዕባ ደቂኣንስቲዮ ዝስራሕ ስራሕ ጥራሕ ዲዩ ዝምልከት?\n",
+              "question": "ስርዓተ ፆታ ብዛዕባ ደቂ ኣንስቲዮ ዝስራሕ ስራሕ ጥራሕ ዲዩ ዝምልከት፧\n",
               "id": 1157730,
               "answers": [
                 {
@@ -565,7 +565,7 @@
               "is_impossible": false
             },
             {
-              "question": "ስርዓተ ፆታ ኣብመንጎ መንን መንን ማዕረ ሓላፊነትን ተሓታቲነትን ክህሉ ይገብር?\n",
+              "question": "ስርዓተ ፆታ ኣብ መንጎ መንን መንን ማዕረ ሓላፊነትን ተሓታቲነትን ክህሉ ይገብር፧\n",
               "id": 1157731,
               "answers": [
                 {
@@ -581,7 +581,7 @@
               "is_impossible": false
             },
             {
-              "question": "ኣብ ሃገርና ኣዝዩ ልዑል ግልጋሎት ዝህቡ ዓይነት መጓዓዝያታት ኣየኖት እዮም?\n",
+              "question": "ኣብ ሃገርና ኣዝዩ ልዑል ግልጋሎት  ዝህቡ ዓይነት መጓዓዝያታት ኣየኖት እዮም፧\n",
               "id": 1157406,
               "answers": [
                 {
