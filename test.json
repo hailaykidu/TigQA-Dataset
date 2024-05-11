@@ -5,7 +5,7 @@
         {
           "qas": [
             {
-              "question": "ወይዘሪት ዘውዲ ክባር እኮ ኣይኮነን  ዝበለቶ ነየናይ እዩ? \n",
+              "question": "ወይዘሪት ዘውዲ ክባር እኮ ኣይኮነን  ዝበለቶ ነየናይ እዩ፧ \n",
               "id": 1157394,
               "answers": [
                 {
@@ -21,7 +21,7 @@
               "is_impossible": false
             },
             {
-              "question": "ማይ ኣፍሊሕኻ ብምዝሓል ብምንታይ ኣፅሪርካ ምስታይ እዩ እያ ዝበለት?\n",
+              "question": "ማይ ኣፍሊሕኻ ብምዝሓል ብምንታይ ኣፅሪርካ ምስታይ እዩ እያ ዝበለት፧\n",
               "id": 1157413,
               "answers": [
                 {
@@ -37,7 +37,7 @@
               "is_impossible": false
             },
             {
-              "question": "ዒላታትን ዓይኒ ማያትን ብእንስሳት ኮነ ብሰብ ከይበላሸዉ እንታይ ይግበሩ?\n",
+              "question": "ዒላታትን ዓይኒ ማያትን ብእንስሳት ኮነ ብሰብ ከይበላሸዉ እንታይ ምግባር የድሊ፧\n",
               "id": 1157407,
               "answers": [
                 {
@@ -53,14 +53,14 @@
               "is_impossible": false
             },
             {
-              "question": "እንስሳት ዝሰትያሉ ቦታ ንበይኑ ምግባርእንታይ ይጠቅም?\n",
+              "question": "እንስሳት ዝሰትያሉ ቦታ ንበይኑ ምግባር  እምንታይ ይጠቅም፧\n",
               "id": 1157395,
               "answers": [
                 {
                   "answer_id": 1051685,
                   "document_id": 1715181,
                   "question_id": 1157395,
-                  "text": "ብእንሰሳት ማይ ከይበላሸው ",
+                  "text": "ብእንሰሳት ማይ ከይበላሸው",
                   "answer_start": 1409,
                   "answer_end": 1412,
                   "answer_category": "SHORT"
@@ -69,7 +69,7 @@
               "is_impossible": false
             },
             {
-              "question": "ሳልሳይ ሜላ ምፅራይ ማይ እንታይእዩ? ?\n",
+              "question": "ሳልሳይ ሜላ ምፅራይ ማይ እንታይ ይብሃል፧\n",
               "id": 1157401,
               "answers": [
                 {
@@ -85,7 +85,7 @@
               "is_impossible": false
             },
             {
-              "question": "ኣብ ንጥፈታት ንግዲ መን መን ንኽህልዉ ግድን እዩ?",
+              "question": "ኣብ ንጥፈታት ንግዲ መንን መንን ኽህልዉ ግድን እዩ፧",
               "id": 1157718,
               "answers": [
                 {
@@ -101,7 +101,7 @@
               "is_impossible": false
             },
             {
-              "question": "ሸማቶ እንታይ እዮም?\n",
+              "question": "ሸማቶ እንታይ እዮም ኢሉ ዝሓተተ መን እዩ፧\n",
               "id": 1157719,
               "answers": [
                 {
@@ -117,14 +117,14 @@
               "is_impossible": false
             },
             {
-              "question": "ኣብ ፅርግያ ብዘይምፅዋት ካብእንተይ ክንዕቀብ ንኽእል?\n",
+              "question": "ኣብ ፅርግያ ብዘይምፅዋት ካብ እንተይ ክንዕቀብ ንኽእል፧\n",
               "id": 1157722,
               "answers": [
                 {
                   "answer_id": 1051714,
                   "document_id": 1715181,
                   "question_id": 1157722,
-                  "text": "ኣቑሑ ዝዕድጉ ሰባት",
+                  "text": "ካብ ሓደጋ ትራፊክ",
                   "answer_start": 6148,
                   "answer_end": 6155,
                   "answer_category": "SHORT"
@@ -133,7 +133,7 @@
               "is_impossible": false
             },
             {
-              "question": "ሸማቶ ንዝዓደጉዎም ኣቊሑ እንታይ ክኽፍሉይግደዱ?\n",
+              "question": "ሸማቶ ንዝዓደጉዎም ኣቊሑ እንታይ ክኽፍሉ ይግደዱ፧\n",
               "id": 1157728,
               "answers": [
                 {
@@ -149,7 +149,7 @@
               "is_impossible": false
             },
             {
-              "question": "ሸማቶ ኣብ ምንታይ ካብምስታፍክዕቀቡ ሓላፊነት ኣለዎም?\n",
+              "question": "ሸማቶ ኣብ ምንታይ ካብ ምስታፍ ክዕቀቡ ሓላፊነት ኣለዎም፧\n",
               "id": 1157406,
               "answers": [
                 {
