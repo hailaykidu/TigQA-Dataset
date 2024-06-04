@@ -17,7 +17,7 @@ This is the official GitHub repository for our recently accepted LREC-Coling 202
 TigQA is an expert-annotated dataset in Tigrinya, a low-resource language spoken by approximately 10 million speakers in Eritrea and the Tigray region of Ethiopia. Our proposed SQuAD-like dataset contains 2,685 question-answer pairs covering 122 diverse topics such as climate, water, and traffic. These pairs are from 537 context paragraphs in publicly accessible Tigrinya and Biology books, with the answers being provided by teachers from the region.
 
 ### Where can I access TIGQA?
-To reliably and accessibly store our dataset, we plan on publishing TIGQA on [Zenodo](https://zenodo.org/), an online platform designed to host datasets safely for a long time. We will update this README file as soon as the data is publicly available on the platform.
+To reliably and accessibly store our dataset, we  publish TIGQA on [Zenodo](https://zenodo.org/records/11423987), an online platform designed to host datasets safely for a long time. We will update this README file as soon as the data is publicly available on the platform.
 
 ### How do I use Ge'ez script in LaTeX?
 While working on this paper, we realized that incorporating Ge'ez script into LaTeX documents is not trivial. As such, we would like to provide you with a simple, helpful command that allows you to incorporate Ge'ez script into your existing English text.
