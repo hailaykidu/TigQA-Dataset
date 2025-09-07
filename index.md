@@ -9,8 +9,9 @@
 
 
 <p align="center">
-  <img src="webpage/l3s-logo-c.webp" align="middle" width="200" style="margin-right:40px; margin-bottom:20px;"/>
-  <img src="webpage/iit.png" align="middle" width="200" style="margin-right:40px; margin-bottom:20px;">
+  <img src="webpage/l3s-logo-c.webp" align="middle" width="200" style="margin-right:40px; margin-bottom:40px;"/>
+  <img src="webpage/iit.png" align="middle" width="200" style="margin-right:40px; margin-bottom:40px;">
+  <img src="webpage/MU.png" align="middle" width="200" style="margin-right:40px; margin-bottom:40px;"/>
 </p>
 
 <p align="center">
